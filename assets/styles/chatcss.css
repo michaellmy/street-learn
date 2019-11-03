@@ -3,6 +3,21 @@ body{
 	background-color: #ACCEDC;
 	margin: 50px 0px;
 }
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+.tab button {
+  padding-left:30%;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
 .main-section small{
 	font-size: 12px;
 }
