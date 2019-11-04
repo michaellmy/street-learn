@@ -3,9 +3,13 @@ html{
 	scroll-behavior: smooth;
 }
 
+body{
+	background-color:#e6f9ff;
+}
+
 .responsiveimg{
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   height: auto;
 }
 
@@ -78,6 +82,7 @@ header nav a {
 }
 #content #mainContent p {
 	/* All paragraphs under maincontent */
+	
 	color: rgba(0,1.00);
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
