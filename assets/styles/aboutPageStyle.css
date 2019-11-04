@@ -16,7 +16,7 @@ header {
 	display: block;
 }
 header .profileLogo .logoPlaceholder {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(40, 152, 173,1.00);
 	width: 187px;
 	text-align: center;
 }
@@ -129,7 +129,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	display: block;
 }
 .mainContent .externalResourcesNav .externalResources {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(40, 152, 173,1.00);
 	display: inline-block;
 	text-align: center;
 	margin-top: 0px;
