@@ -70,6 +70,7 @@ header nav a {
 }
 #content #mainContent h3 {
 	/*Captions ot Taglines */
+	
 	font-family: source-sans-pro, sans-serif;
 	font-style: bold;
 	font-weight: 600;
@@ -77,12 +78,11 @@ header nav a {
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
-	width: 35%;
-	background-color: rgba(40, 152, 173,1.00);
+	width: 80%;
+	background-color: aliceblue;
 }
 #content #mainContent p {
 	/* All paragraphs under maincontent */
-	
 	color: rgba(0,1.00);
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
@@ -129,6 +129,7 @@ footer article h3 {
 	float: left;
 	padding-right: 2%;
 	padding-top: 41px;
+	background-color:aliceblue;
 }
 
 #mainwrapper {

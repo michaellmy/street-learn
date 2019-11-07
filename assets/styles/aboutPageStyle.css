@@ -78,6 +78,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 /* Main Content sections */
 .mainContent .section1 {
 	display: block;
+	background-color: aliceblue
 }
 .section1 .sectionTitle, .section2 .sectionTitle {
 	font-family: 'Montserrat', sans-serif;
@@ -124,9 +125,11 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
+	
 }
 .mainContent {
 	display: block;
+	background-color:aliceblue;
 }
 .mainContent .externalResourcesNav .externalResources {
 	background-color: rgba(40, 152, 173,1.00);
