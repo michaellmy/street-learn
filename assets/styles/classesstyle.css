@@ -6,6 +6,25 @@ body{
 a:hover {
 	color: rgba(255,255,255,1.00);
 }
+.button-container{
+	padding-left: 23%;
+	width: 50%;
+}
+
+.chatbutton {
+  background-color: rgba(40, 152, 173,1.00); /* Green */
+  border: hidden;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;  
+  font-family:montserrat, sans-serif;
+  position:relative;
+  width:100%;
+  cursor:pointer;
+}
 /*header*/
 header {
 	font-family: 'Montserrat', sans-serif;

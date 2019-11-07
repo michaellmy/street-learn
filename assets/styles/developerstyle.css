@@ -1,10 +1,10 @@
 @charset "UTF-8";
 body{
-	background-color:#9CB9D3;
+	background-color:#8DCCBB;
 }
 #mainwrapper header {
 	/*Header */
-	background-color: rgba(50,150,170,1.00);
+	background-color: #128F04;
 	overflow: auto;
 	font-family: montserrat, sans-serif;
 	font-style: normal;
@@ -48,12 +48,12 @@ header nav a {
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
-	width: 70%;
-	background-color: rgba(50,150,170,1.00);
+	width: 100%;
+	background-color: #128F04;
 }
 #content #mainContent p {
 	/* All paragraphs under maincontent */
-	color: rgba(90,90,90,1.00);
+	color: #e6f9ff;
 	font-family: source-sans-pro, sans-serif;
 	font-style: normal;
 	font-weight: 500;
@@ -61,7 +61,7 @@ header nav a {
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
-	background-color: rgba(50,150,170,1.00);
+	background-color: #128F04;
 }
 #content #mainContent #authorInfo h2, #content #mainContent #authorInfo p {
 	color: rgba(255,255,255,1.00);
@@ -127,7 +127,7 @@ footer article h3 {
 #content #sidebar #adimage {
 	/* Container for Image in sidebar */
 	width: 100%;
-	background-color: rgba(50,150,170,1.00);
+	background-color: #128F04;
 	margin-top: 46px;
 	float: none;
 	overflow: auto;
@@ -148,7 +148,7 @@ nav ul li a {
 	/* Footer bar at the bottom of the page */
 	height: 18px;
 	clear: both;
-	background-color: rgba(50,150,170,1.00);
+	background-color: #128F04;
 	width: 100%;
 }
 footer {
@@ -167,7 +167,7 @@ footer {
 }
 #sidebar #adimage img {
 	/* Image in sidebar */
-	width: 70%;
+	width: 100%;
 	float: left;
 }
 #mainwrapper header nav a {
