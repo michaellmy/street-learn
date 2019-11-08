@@ -8,12 +8,15 @@ body {
 	max-width: 960px;
 	padding-left: 2.275%;
 	padding-right: 2.275%;
-	background-color:#e6f9ff;
+	background-color:#AFD1F1;
 }
 /* Header */
 header {
 	text-align: center;
 	display: block;
+}
+.profileHeader{
+	background-color: aliceblue;
 }
 header .profileLogo .logoPlaceholder {
 	background-color: rgba(40, 152, 173,1.00);
@@ -57,6 +60,7 @@ hr {
 header .profileHeader p {
 	font-family: sans-serif;
 	color: rgba(80,80,80,1.00);
+	background-color: aliceblue;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
